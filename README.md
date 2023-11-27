@@ -1,5 +1,5 @@
 # react_components
-some ready to use react components such as navbar, card and ...
+some ready to use react components such as navbar, card etc.
 ## Components :
 ### navbar :
  - usage : `<NavBar appname="Moon" data={[{"name":"link1","href":"link1"}.{"name":"link2","href":"link2"}]} classnames={ styles.moon_navbar }/>` <br>
