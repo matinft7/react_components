@@ -27,6 +27,10 @@
     margin-left: 10px;
     cursor: pointer;
 }
+.navbar ul li a{
+    text-decoration: none;
+    color: white;
+}
 /* card basic default style */
 .card{
     background-color: #333;
