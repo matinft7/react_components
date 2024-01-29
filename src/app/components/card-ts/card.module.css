@@ -1,0 +1,15 @@
+.card{
+    box-shadow: var(--shadow);
+    border-radius: var(--radius);
+    display: flex;
+    flex-flow: column wrap;
+    width: calc(25% - 16px);
+}
+.card img{
+    width: 100%;
+    border-radius: var(--radius);
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+    object-fit: cover;
+    height: 200px;
+}
