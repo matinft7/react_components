@@ -1,5 +1,6 @@
 # react_components
 some ready to use react components such as navbar, card etc.
+the type script ones are more important for me and i'll work on them more.
 ## Components :
 ### navbar :
  - usage :
